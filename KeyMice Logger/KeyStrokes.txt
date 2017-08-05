@@ -1,0 +1,1 @@
+ (Key.shift) Ratul (Key.space)  (Key.shift) Is (Key.space)  (Key.shift) My (Key.space)  (Key.shift) Nm (Key.backspace) ame (Key.enter)  (Key.esc) aaaaaaaaaaaaaaaaaa (Key.alt_l)  (Key.esc)  (Key.esc)  (Key.esc) 
